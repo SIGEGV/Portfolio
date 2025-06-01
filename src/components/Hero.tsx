@@ -54,7 +54,7 @@ export const Hero = () => {
 
           <div className="flex justify-center gap-6">
             <a
-              href="https://leetcode.com/u/yash_dobriyal/"
+              href="https://github.com/SIGEGV"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-500 hover:text-gray-300 transition-colors duration-200"
