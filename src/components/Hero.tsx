@@ -54,7 +54,7 @@ export const Hero = () => {
 
           <div className="flex justify-center gap-6">
             <a
-              href="https://github.com/yashdobriyal"
+              href="https://leetcode.com/u/yash_dobriyal/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-500 hover:text-gray-300 transition-colors duration-200"
@@ -62,7 +62,7 @@ export const Hero = () => {
               <Github size={32} />
             </a>
             <a
-              href="https://linkedin.com/in/yashdobriyal"
+              href="https://www.linkedin.com/in/yash-dobriyal-3948791b9/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-500 hover:text-gray-300 transition-colors duration-200"
