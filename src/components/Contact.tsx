@@ -99,7 +99,7 @@ export const Contact = () => {
 
         <div className="flex justify-center gap-6">
           <a
-            href="https://github.com/yashdobriyal"
+            href="https://github.com/SIGEGV"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-400 hover:text-purple-400 transition-colors duration-200"
@@ -107,7 +107,7 @@ export const Contact = () => {
             <Github size={32} />
           </a>
           <a
-            href="https://linkedin.com/in/yashdobriyal"
+            href="www.linkedin.com/in/yash-dobriyal-3948791b9"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-400 hover:text-purple-400 transition-colors duration-200"
